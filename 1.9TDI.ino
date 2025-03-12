@@ -1,9 +1,7 @@
 /*
-*  Simulating diesel VW 1.9 TDI engine sound with mechanical relays on Arduino boards/modules 
-*  Made just for sound and joy ;)
-*  vGamBIT 
-*  v0.1
-*  2024
+* Simulating the sound of a diesel VW 1.9 TDI engine using mechanical relays on Arduino boards. 
+* Created purely for the sound and fun – no practical application or purpose.
+*  2025
 */
 
 // Relay input pin configuration adjust to your hardware and preferences
